@@ -42,7 +42,7 @@ pip install numpy matplotlib
 ## How to run
 
 ```bash
-python uav_revised_simulation_complete.py
+python uav_revised_simulation.py
 ```
 
 The script prints the ablation table, the multi-scenario table, a movement feasibility check, and generates the figures.
